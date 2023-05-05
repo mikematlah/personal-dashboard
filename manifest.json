@@ -7,6 +7,6 @@
         "default_icon": "icon.png"
     },
     "chrome_url_overrides": {
-        "newtab": "dashboard-proj.html"
+        "newtab": "index.html"
     }
 }
